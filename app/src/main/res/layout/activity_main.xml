@@ -55,7 +55,7 @@
                 android:lineSpacingExtra="@dimen/line_spacing"
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_text" />
-            
+
         </LinearLayout>
 
     </ScrollView>
